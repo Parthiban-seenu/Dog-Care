@@ -1,6 +1,8 @@
 # Dog-Care
 A UI design using Adobe XD-Prototype
 
+TO VIEW THIS IN YOUR MACHINE DOWNLOAD ADOBE XD TOOL
+
 
 This is a Dog Care and Dog sitting application prototype.
 
